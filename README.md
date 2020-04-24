@@ -9,4 +9,4 @@ First layer with 128 neurons and second with 32 layers
 
 Batch size = 128 and number of epoches used is depend on training data size (20 is enough for most of sizes)
 
-Achieves accuracy as high as 97% in test data
+Achieves accuracy as high as 97% for test data
